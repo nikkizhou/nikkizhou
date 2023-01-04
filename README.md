@@ -23,30 +23,32 @@
   
 <br>
 
+
+
 ## 🧱 Projects:  
-### 👧 [Nikki's Portfolio](https://github.com/nikkizhou/Portfolio-Nikki)  
-- Description: A frontend app to introduce Nikki as a fullstack developer.  
-- Tech Stack: Js, React    
-- 🔥 [Live Demo](https://portfolio-tan-pi-61.vercel.app/)   
+### 👧 [Nikki's Portfolio](https://github.com/nikkizhou/Portfolio-Nikki)  -->  [Live Demo](https://portfolio-tan-pi-61.vercel.app/) 
+- **Description**:    
+A frontend app to introduce Nikki as a fullstack developer. Providing features such as cv downloading, social media connecting, contact form and so on.
+- **Tech Stack**: Typescript, React
+  
+### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)  -->  [Live Demo](https://products-blue-beta.vercel.app) 
+- **Description**:    
+A classical ecommerce app with features such as authentication, product search and filter, cart, orders, reviews, editing profile, and contact customer service.
+- **Tech Stack**: 
+Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, Prisma, PostgreSQL, Nodemailer
 
-### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)  
-- Description: asdkncwakj  
-- Tech Stack: Js,    
-- 🔥 [Live Demo](https://products-blue-beta.vercel.app) 
+### 👯‍ [Join The Queue](https://github.com/nikkizhou/Join-The-Queue)  -->  [Live Demo](https://join-the-queue-client.onrender.com/)  
+- **Description**:    
+A queue management app which is easier for users to queue up and easier for business to keep track of and manage their queue.
+- **Tech Stack**: MERN stack, Google Map Api, Redux, Auth0   
 
-### 👯‍ [Join The Queue](https://github.com/nikkizhou/Join-The-Queue)  
-- Description: asdkncwakj  
-- Tech Stack: Js,    
-- 🔥 [Live Demo](https://join-the-queue-client.onrender.com/)  
+### 💰 [Living Cost Comparing App](https://github.com/nikkizhou/Living-Cost-App)  -->  [Live Demo](https://living-cost-app-client.vercel.app/)  
+- **Description**:   
+A fullstack app where user can compare living costs of two different cities. A search history bar is showed to make it easier for user to view the data of the searched cities again.
+- **Tech Stack**: MERN stack, typescript, mongoose, RapidApi, unsplash Api  
 
-### 💰 [Living Cost Comparing App](https://github.com/nikkizhou/Living-Cost-App)  
-- Description: asdkncwakj  
-- Tech Stack: Ts,    
-- 🔥 [Live Demo](https://living-cost-app-client.vercel.app/)  
-
-### 🐕 [Puppy Library](https://github.com/nikkizhou/Puppy-Library)  
-- Description: asdkncwakj  
-- Tech Stack: Js,    
-- 🔥 [Live Demo](https://puppies-library.vercel.app/)  
-
+### 🐕 [Puppy Library](https://github.com/nikkizhou/Puppy-Library)  -->  [Live Demo](https://puppies-library.vercel.app/)  
+- **Description**:   
+A fullstack app with CRUD operations where user can add, edit, delete and check details of the puppies in the library.
+- **Tech Stack**: MERN stack, typescript    
 
