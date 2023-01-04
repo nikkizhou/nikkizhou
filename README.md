@@ -1,4 +1,4 @@
-### Hi there, I'm Nikki 👋  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+### Hi there, I'm Nikki 👋 
 
 ## 👩🏻 About Me  
 - 🔭 I’m a fullstack developer, currently looking for opportunities  
