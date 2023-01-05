@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikki 👋 
 
 ## 👩🏻 About Me  
-- 🔭 I’m a fullstack developer, currently looking for opportunities  
+- 🔭 I’m a fullstack javascript+java developer, currently looking for opportunities  
 - 🌱 I’m currently learning **Spring + Spring Boot**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
