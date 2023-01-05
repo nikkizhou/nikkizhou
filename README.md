@@ -2,7 +2,7 @@
 
 ## 👩🏻 About Me  
 - 🔭 I’m a fullstack developer, currently looking for opportunities  
-- 🌱 I’m currently learning **Spring**  
+- 🌱 I’m currently learning **Spring + Spring Boot**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
       <a href=https://www.linkedin.com/in/nikki-zhou-b456ba152/">
