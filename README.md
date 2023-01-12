@@ -35,20 +35,20 @@ A frontend app to introduce Nikki as a fullstack developer. Providing features s
 - **Description**:    
 A classical ecommerce app with features such as authentication, product search and filter, cart, orders, reviews, editing profile, and contact customer service.
 - **Tech Stack**: 
-Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, Prisma, PostgreSQL, Nodemailer
+Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, REST, Prisma, PostgreSQL, Nodemailer
 
 ### 👯‍ [Join The Queue](https://github.com/nikkizhou/Join-The-Queue)  -->  [Live Demo](https://join-the-queue-client.onrender.com/)  
 - **Description**:    
 A queue management app which is easier for users to queue up and easier for business to keep track of and manage their queue.
-- **Tech Stack**: MERN stack, Google Map Api, Redux, Auth0   
+- **Tech Stack**: MERN stack(MongoDb, Express, Reat, NodeJs), REST, Google Map Api, Redux, Auth0   
 
 ### 💰 [Living Cost Comparing App](https://github.com/nikkizhou/Living-Cost-App)  -->  [Live Demo](https://living-cost-app-client.vercel.app/)  
 - **Description**:   
 A fullstack app where user can compare living costs of two different cities. A search history bar is showed to make it easier for user to view the data of the searched cities again.
-- **Tech Stack**: MERN stack, typescript, mongoose, RapidApi, unsplash Api  
+- **Tech Stack**: React, NodeJs, typescript, mongoose, RapidApi, unsplash Api  
 
 ### 🐕 [Puppy Library](https://github.com/nikkizhou/Puppy-Library)  -->  [Live Demo](https://puppies-library.vercel.app/)  
 - **Description**:   
 A fullstack app with CRUD operations where user can add, edit, delete and check details of the puppies in the library.
-- **Tech Stack**: MERN stack, typescript    
+- **Tech Stack**: MERN stack(MongoDb, Express, Reat, NodeJs), REST, typescript    
 
