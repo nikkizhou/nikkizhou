@@ -1,4 +1,5 @@
-### Hi there, I'm Nikki 👋 
+### Hi there, I'm Nikki 👋  
+![](https://komarev.com/ghpvc/?username=nikkizhou)
 
 ## 👩🏻 About Me  
 - 🔭 I’m a fullstack javascript+java developer, currently looking for opportunities  
