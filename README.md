@@ -42,7 +42,6 @@ Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, REST, P
 - **Description**:    
 An app for assigning tasks to different employees depending on their positions.  
 - **Tech Stack**: Java, Spring Boot, React, Typescript, Material-table  
-Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, REST, Prisma, PostgreSQL, Nodemailer
 
 ### 👯‍ [Join The Queue](https://github.com/nikkizhou/Join-The-Queue)  -->  [Live Demo](https://join-the-queue-client.onrender.com/)  
 - **Description**:    
