@@ -27,33 +27,33 @@
 
 
 ## 🧱 Projects:  
-### 👧 [Nikki's Portfolio](https://github.com/nikkizhou/Portfolio-Nikki)  -->  [Live Demo](https://portfolio-tan-pi-61.vercel.app/) 
+### 👧 [Nikki's Portfolio](https://github.com/nikkizhou/Portfolio-Nikki)*Personal  -->  [Live Demo](https://portfolio-tan-pi-61.vercel.app/) 
 - **Description**:    
 A frontend app to introduce Nikki as a fullstack developer. Providing features such as cv downloading, social media connecting, contact form and so on.
 - **Tech Stack**: Typescript, React
   
-### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)  -->  [Live Demo](https://products-blue-beta.vercel.app) 
+### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)*Personal  -->  [Live Demo](https://products-blue-beta.vercel.app) 
 - **Description**:    
 A classical ecommerce app with features such as authentication, product search and filter, cart, orders, reviews, editing profile, and contact customer service.
 - **Tech Stack**: 
 Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, REST, Prisma, PostgreSQL, Nodemailer
 
-### 📝 [Resource Management](https://github.com/nikkizhou/Resource-Management)  <-- Source Code
+### 📝 [Resource Management](https://github.com/nikkizhou/Resource-Management)*Personal  <-- Source Code
 - **Description**:    
 An app for assigning tasks to different employees depending on their positions.  
 - **Tech Stack**: Java, Spring Boot, React, Typescript, Material-table  
 
-### 👯‍ [Join The Queue](https://github.com/nikkizhou/Join-The-Queue)  -->  [Live Demo](https://join-the-queue-client.onrender.com/)  
+### 👯‍ [Join The Queue](https://github.com/nikkizhou/Join-The-Queue)*TeamWork  -->  [Live Demo](https://join-the-queue-client.onrender.com/)  
 - **Description**:    
 A queue management app which is easier for users to queue up and easier for business to keep track of and manage their queue.
 - **Tech Stack**: MERN stack(MongoDb, Express, Reat, NodeJs), REST, Google Map Api, Redux, Auth0   
 
-### 💰 [Living Cost Comparing App](https://github.com/nikkizhou/Living-Cost-App)  -->  [Live Demo](https://living-cost-app-client.vercel.app/)  
+### 💰 [Living Cost Comparing App](https://github.com/nikkizhou/Living-Cost-App)*Personal  -->  [Live Demo](https://living-cost-app-client.vercel.app/)  
 - **Description**:   
 A fullstack app where user can compare living costs of two different cities. A search history bar is showed to make it easier for user to view the data of the searched cities again.
 - **Tech Stack**: React, NodeJs, typescript, mongoose, RapidApi, unsplash Api  
 
-### 🐕 [Puppy Library](https://github.com/nikkizhou/Puppy-Library)  -->  [Live Demo](https://puppies-library.vercel.app/)  
+### 🐕 [Puppy Library](https://github.com/nikkizhou/Puppy-Library)*Personal  -->  [Live Demo](https://puppies-library.vercel.app/)  
 - **Description**:   
 A fullstack app with CRUD operations where user can add, edit, delete and check details of the puppies in the library.
 - **Tech Stack**: MERN stack(MongoDb, Express, Reat, NodeJs), REST, typescript    
