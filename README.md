@@ -3,7 +3,7 @@
 
 ## 👩🏻 About Me  
 - 🔭 I’m a fullstack javascript+java developer, currently looking for opportunities  
-- 🌱 I’m currently learning **Spring + Spring Boot**  
+- 🌱 I’m currently learning **Angular + C#**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
       <a href=https://www.linkedin.com/in/nikki-zhou-b456ba152/">
