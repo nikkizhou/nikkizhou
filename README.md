@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=nikkizhou)
 
 ## 👩🏻 About Me  
-- 🔭 I’m a fullstack javascript+java developer, currently looking for opportunities  
+- 🔭 I’m a software developer at Visma
 - 🌱 I’m currently learning **Angular + C#**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
