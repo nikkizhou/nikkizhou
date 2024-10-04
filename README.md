@@ -32,7 +32,7 @@
 A frontend app to introduce Nikki as a fullstack developer. Providing features such as cv downloading, social media connecting, contact form and so on.
 - **Tech Stack**: Typescript, React
   
-### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)*Personal  -->  [Live Demo](https://products-blue-beta.vercel.app) 
+### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)*Personal  -->  [Live Demo](https://products-blue-beta.vercel.app) ,  [Video Demo]([https://products-blue-beta.vercel.app](https://www.youtube.com/watch?v=tce1VfjM6WU)) 
 - **Description**:    
 A classical ecommerce app with features such as authentication, product search and filter, cart, orders, reviews, editing profile, and contact customer service.
 - **Tech Stack**: 
