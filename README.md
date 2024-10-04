@@ -3,7 +3,7 @@
 
 ## 👩🏻 About Me  
 - 🔭 I’m a software developer at Visma
-- 🌱 I’m currently learning **Angular + C#**  
+- 🌱 I’m currently learning **Machine Learning**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
       <a href=https://www.linkedin.com/in/nikki-zhou-b456ba152/">
