@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Machine Learning**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
-      <a href=https://www.linkedin.com/in/nikki-zhou-b456ba152/">
+      <a href="https://www.linkedin.com/in/nikki-zhou-%E5%91%A8%E9%A2%96%E5%80%A9-b456ba152/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
