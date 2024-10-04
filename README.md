@@ -32,13 +32,13 @@
 A frontend app to introduce Nikki as a fullstack developer. Providing features such as cv downloading, social media connecting, contact form and so on.
 - **Tech Stack**: Typescript, React
   
-### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)*Personal  -->  [Live Demo](https://products-blue-beta.vercel.app) ,  [Video Demo](https://www.youtube.com/watch?v=tce1VfjM6WU)) 
+### 🛒 [Nikki's Eshop](https://github.com/nikkizhou/Nikkis-EShop)*Personal  -->  [Live Demo](https://products-blue-beta.vercel.app),   [Video Demo](https://www.youtube.com/watch?v=tce1VfjM6WU)
 - **Description**:    
 A classical ecommerce app with features such as authentication, product search and filter, cart, orders, reviews, editing profile, and contact customer service.
 - **Tech Stack**: 
 Typescript, Nextjs, Docker, AWS RDS, AWS s3, React, ReduxToolKit, Auth0, REST, Prisma, PostgreSQL, Nodemailer
 
-### 📝 [Resource Management](https://github.com/nikkizhou/Resource-Management)*Personal  <-- Source Code
+### 📝 [Resource Management](https://github.com/nikkizhou/Resource-Management)*Personal  --> [Video Demo](https://user-images.githubusercontent.com/97601227/214528369-bb35c284-2d42-4a8a-88a6-d8d3f1dd8755.mp4)
 - **Description**:    
 An app for assigning tasks to different employees depending on their positions.  
 - **Tech Stack**: Java, Spring Boot, React, Typescript, Material-table  
