@@ -2,8 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=nikkizhou)
 
 ## 👩🏻 About Me  
-- 🔭 I’m a software developer at Visma
-- 🌱 I’m currently learning **Machine Learning**  
+- 🔭 Fulltime Software developer at Visma
+- 🏫 Fulltime Computer Science Master Student at University of Oslo
+- 🌱 Currently learning **Machine Learning**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
       <a href="https://www.linkedin.com/in/nikki-zhou-%E5%91%A8%E9%A2%96%E5%80%A9-b456ba152/">
