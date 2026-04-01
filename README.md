@@ -2,8 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=nikkizhou)
 
 ## 👩🏻 About Me  
-- 🔭 Fulltime Software developer at Visma
-- 🏫 Fulltime Computer Science Master Student at University of Oslo
+- 🔭 Software developer at Visma
 - 🌱 Currently learning **Machine Learning**  
 - 📫 How to reach me: Nikkizhou99@gmail.com  
     <div id="badges">
